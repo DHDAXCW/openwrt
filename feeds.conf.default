@@ -1,0 +1,7 @@
+src-git packages https://github.com/DHDAXCW/packages
+src-git luci https://github.com/DHDAXCW/luci
+src-git routing https://github.com/coolsnowwolf/routing
+src-git telephony https://git.openwrt.org/feed/telephony.git
+src-git haibo https://github.com/haiibo/openwrt-packages
+src-git nas https://github.com/linkease/nas-packages.git;master
+src-git nas_luci https://github.com/linkease/nas-packages-luci.git;main
